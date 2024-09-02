@@ -45,11 +45,6 @@ building_data = []
 missing_info=[]
 room_notenough=[]
 
-# 環境変数が正しく読み込まれているか確認
-print(f"Account SID: {account_sid}")
-print(f"Auth Token: {auth_token}")
-print(f"From Number: {from_number}")
-
 # 現在の日付を取得
 current_date = datetime.now().strftime('%Y/%m/%d')
 
