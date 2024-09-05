@@ -1,0 +1,7 @@
+name: bukkaku_automation
+
+services:
+  bukkaku_automation:
+    build: .
+    ports:
+      - "5000:5000"

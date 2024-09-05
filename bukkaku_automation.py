@@ -28,7 +28,7 @@ load_dotenv()
 # グローバル変数
 audio_file_path = 'audio.mp3'
 output_file_path = 'output.mp3'
-account_sid = os.getenv('TWILIO_SID')
+account_sid = os.getenv('TWILIO_ACCOUNT_SID')
 auth_token = os.getenv('TWILIO_AUTH_TOKEN')
 from_number = os.getenv('TWILIO_PHONE_NUMBER')
 my_info="株式会社テスト、業務改革室の竹内です。"

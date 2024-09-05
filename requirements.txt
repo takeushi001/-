@@ -1,0 +1,14 @@
+pandas
+openpyxl
+twilio
+python-dotenv
+Flask
+requests
+jsonify
+# threading を削除
+pyngrok
+Path
+openai
+datetime
+AudioSegment
+# ast  # この行をコメントアウトまたは削除
