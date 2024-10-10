@@ -17,7 +17,7 @@ from pydub import AudioSegment
 from queue import Queue
 import re
 import ast
-
+# komentoffftest
 # Flaskアプリケーションの作成
 app = Flask(__name__)
 
