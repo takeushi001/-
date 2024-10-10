@@ -1,6 +1,6 @@
 # .env隠します。（これでいいのか？）
 .env
-.functions.py
+functions.py
 
 
 # Byte-compiled / optimized / DLL files
